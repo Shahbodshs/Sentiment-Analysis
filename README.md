@@ -21,3 +21,10 @@ The whole reason of doing this was to do a personal project for my resume, i hop
 
 
 ## You can have access to the code in the __code__ branch.
+
+
+# Updates about the project: 
+I am considering to make soem changes in the future in the model. 
+in the  last lines you might see that the validation loss starts to increase while the train set loss still decreasing. 
+i will implement early stopping and evaluate the validation test at the same time for each epoch. 
+also im considering to create another SA model but using a [Transformer](https://huggingface.co/learn/nlp-course/en/chapter1/1?fw=pt) model. 
