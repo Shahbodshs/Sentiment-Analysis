@@ -18,3 +18,6 @@ The whole reason of doing this was to do a personal project for my resume, i hop
 
 # The dataset source : 
 [Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140)    
+
+
+#You can have access to the code in the __code__ branch.
