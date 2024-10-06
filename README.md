@@ -38,5 +38,5 @@ I have created a better model with mre accuracy, but it still has potential for 
 
 # Update:
 I was able to implement this model but using a transformer model called __BERT__ and here is the link of the project in kaggle: 
-[Project kaggle sentiment analysis with bert](https://www.kaggle.com/code/shahbodsobhkhiz/sentiment-analysis-with-bert?scriptVersionId=193327741). 
+[Project kaggle sentiment analysis with BiLSTM]([https://www.kaggle.com/code/shahbodsobhkhiz/sentiment-analysis-with-bert?scriptVersionId=193327741](https://www.kaggle.com/code/shahbodsobhkhiz/sentiment-analysis-bilstm)). 
 - One thing to note is that i only set the epochs for training to 2, it is abvious that the accuracy of the model could go alot higher but it was time consuming. 
