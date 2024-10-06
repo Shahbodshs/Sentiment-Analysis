@@ -30,5 +30,5 @@ i will implement early stopping and evaluate the validation test at the same tim
 also im considering to create another SA model but using a [Transformer](https://huggingface.co/learn/nlp-course/en/chapter1/1?fw=pt) model. 
 
 
-## Update 1:
+## Update 1(10/6/2024):
 I have created a better model with mre accuracy, but it still has potential for improvements, but the file having the name update-1 is the newer version for now. 
