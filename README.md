@@ -31,4 +31,4 @@ also im considering to create another SA model but using a [Transformer](https:/
 
 
 ## Update 1(10/6/2024):
-I have created a better model with mre accuracy, but it still has potential for improvements, but the file having the name update-1 is the newer version for now. 
+I have created a better model with more accuracy, but it still has potential for improvements, but the file having the name update-1 is the newer version for now. 
